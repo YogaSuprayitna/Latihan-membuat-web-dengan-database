@@ -1,3 +1,3 @@
-Nama : Yoga Suprayitna
-NPM : 51421533
-Kelas : 3IA08
+Latihan membuat web dengan database
+Web ini bisa melakukan CRUD (Create, Read, Update, Delete)
+Data yang di input akan tersimpan di phpMyAdmin
